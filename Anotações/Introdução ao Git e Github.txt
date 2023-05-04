@@ -1,0 +1,21 @@
+
+
+
+Olá essa é a listagem  de comando git para se usar na extenção git bash para auxiliar. 
+
+Git init = inicia novo repositorio
+
+Git colone + link = clona repositorio remoto para o local
+
+Git add * = adiciona algo ao repositorio 
+
+Git commit -m "mensagem do commit" = commita seu repositorio local 
+
+Git Push Origin main =  empurra o repositorio local para um remoto no git hub
+
+Git Pull  = puxa o repositorio remoto para o local 
+
+Git status = ve o status do seu repositorio local. 
+
+git remote add origin + link reporitorio nuvem. = linka o repostiorio nuvem a um nome 
+
